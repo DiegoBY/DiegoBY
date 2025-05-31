@@ -1,11 +1,9 @@
 
 ### Olá! Eu sou Diego Santos.🛫
 
-<div>
-  <a href="https://www.linkedin.com/in/diego-santos-8055bb288/" target="_blank"><img alt="imgLinkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a>
-  <a href="https://www.instagram.com/diegosantos_cr/" target="_blank"><img alt="imgInstagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> </a>
-  <a href="mailto:devdiegosantos@gmail.com?subject=Olá%20Diego!&body=Escreva%20sua%20mensagem%20aqui..." target="_blank"><img alt="imgGmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /> </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-santos-8055bb288/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegosantos_cr/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devdiegosantos@gmail.com)
 
 
 ![DiegoBY GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoBY&show_icons=true&theme=tokyonight)
